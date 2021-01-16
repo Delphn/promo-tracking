@@ -1,0 +1,17 @@
+{
+  "name": "scraping",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Delphin Rukundo <delphinrukundo10@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.5",
+    "cron": "^1.8.2",
+    "nodemailer": "^6.4.17",
+    "puppeteer": "^5.5.0"
+  }
+}
