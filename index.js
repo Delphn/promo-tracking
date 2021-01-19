@@ -4,7 +4,7 @@ const so = require('./size-official');
 
   await so.initialize();
 
-  await so.getProducts();
+  await so.checkProducts();
 
   debugger;
 
