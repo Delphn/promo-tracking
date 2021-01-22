@@ -9,9 +9,8 @@
   "author": "Delphin Rukundo <delphinrukundo10@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "cheerio": "^1.0.0-rc.5",
-    "cron": "^1.8.2",
-    "nodemailer": "^6.4.17",
+    "@sendgrid/mail": "^7.4.2",
+    "dotenv": "^8.2.0",
     "puppeteer": "^5.5.0"
   }
 }
