@@ -1,3 +1,5 @@
+# Promo tracking with Puppeteer
+
 # Run the code
 ```
 node index.js
